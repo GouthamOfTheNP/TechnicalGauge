@@ -1,1 +1,1 @@
-# TechnicalGuage
+# TechnicalGauge
