@@ -74,7 +74,7 @@ class DataFetchThread(QThread):
 class TradingDashboard(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Technical Guage Dashboard")
+        self.setWindowTitle("Technical Gauge Dashboard")
         self.resize(1600, 1000)
         
         self.current_df = None
